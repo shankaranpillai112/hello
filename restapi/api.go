@@ -1,8 +1,8 @@
-package api
+package restapi
 
 import "github.com/gofiber/fiber"
 
-func runAPI() {
+func run() {
 	app := fiber.New()
 
 	app.Get("/", func(c *fiber.Ctx) {
