@@ -1,1 +1,1 @@
-## Understaning Golang's imports and project structure
+## Repo to understand Golang's imports and project structure
